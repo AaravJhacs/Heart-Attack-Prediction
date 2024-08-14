@@ -1,5 +1,5 @@
 # Heart-Attack-Prediction
-Heart Attack Analysis: EDA and prediction
-This Project is about predicting the chances of a person getting a heart attack because of medical history and various factors found out through his blood Test. This code takes in various number of factors in consideration like the patient's age,sex,resting blood pressure, serum cholestrol levels, fasting blood sugar levels, resting electrocardiographic results, maximum heart rate achieved, exercise induced angina, ST depression induced by exercise relative to rest, the slope of the peak exercise ST segment, number of major vessels coloured by flourosopy, Thallium stres test.
+Heart Attack Prediction: EDA and Analysis
+This project predicts heart attack risk based on medical history and blood test results. It considers factors like age, sex, resting blood pressure, serum cholesterol, fasting blood sugar, resting ECG, maximum heart rate, exercise-induced angina, ST depression during exercise, peak exercise ST segment slope, major vessel coloration by fluoroscopy, and thallium stress test.
 
-When all these factors are combined and goes through various statistical test it give out between 0 and 1 1 being highly likely to get a heart and 0 being almost close to being a perfectly healthy heart.
+The combined factors undergo statistical tests to generate an output between 0 and 1, indicating a high likelihood of heart attack (1) or a low likelihood (0).
